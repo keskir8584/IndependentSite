@@ -1,0 +1,27 @@
+@charset "utf-8";
+p {
+	color: #000000;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 14pt;
+}
+body h2 input {
+	width: 400px;
+	height: 250px;
+}
+
+h2 {
+	color: #000000;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 14pt;
+}
+
+h1 {
+	color: #000000;
+	font-weight: bold;
+	font-size: 24pt;
+}
+body p img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}

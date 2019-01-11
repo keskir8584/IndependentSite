@@ -1,0 +1,9 @@
+@charset "utf-8";
+p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 14pt;
+}
+h1 {
+	font-weight: bold;
+	font-size: 24pt;
+}
